@@ -36,7 +36,7 @@ namespace WebApplicationDemo
         }
         void WhatYourName()
         {
-            String name = Console.Read();
+            String name = "88888";
             Console.WriteLine("Hello" + name);
          }
 }
